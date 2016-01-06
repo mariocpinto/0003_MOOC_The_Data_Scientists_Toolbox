@@ -24,4 +24,10 @@ These are the topics coverd in week 2:
 Comands covered: pwd, clear, ls -a -l, cd, mkdir, touch, cp -r, rm, mv, echo, date.
 * How to install git on your computer and perform the initial setup.
 * Creating a github account and performing the initial setup.
-* 
+* Creating and forking repos.
+* Primer of basic git commands - add, commit, push, checkout, branch; and pull requests.
+* A glimpse of markdown.
+* Installing and loading packages using the install.packages() and library() commands.
+* Procedure for installing Rtools.
+
+#### Week 3
