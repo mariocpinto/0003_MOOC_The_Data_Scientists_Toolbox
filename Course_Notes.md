@@ -42,6 +42,11 @@ These are the topics coverd in week 3:
 
 #### Week 4
 
-These are the topics coverd in week 4:
+These are the contents of week 4:
 
 ![Week 4 content of 'The Data Scientist's Toolbox MOOC']()
+
+There is just one assignment to be completed. The assignment is a means to demonstrate that you have RStudio installed, have created a github account, and know how to fork a repository and commit changes.
+
+#### Concluding Remarks:
+This is a fairly lightweight course and can be completed pretty quickly. The course is primarily aimed to get you primed and set-up for the other courses in the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science).
