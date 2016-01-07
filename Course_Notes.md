@@ -1,7 +1,7 @@
 
 ## The Data Scientist's Toolbox: Course Notes
 
-These notes are intended to be a quick refresher of the contents of this course. 
+These notes are intended to be a high level overview / quick refresher of the contents of the Coursera course "[The Data Scientist's Toolkit](https://www.coursera.org/learn/data-scientists-tools/)".
 For detailed notes, you can take a look at [this repository](https://github.com/DataScienceSpecialization).
 
 #### Week 1
