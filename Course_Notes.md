@@ -8,7 +8,7 @@ For detailed notes, you can take a look at [this repository](https://github.com/
 
 These are the topics covered in week 1:
 
-![Week 1 content]()
+![Week 1 content of 'The Data Scientist's Toolbox MOOC']()
 
 The content is primarily introductory in nature. 
 It includes an introduction to the current course and each course of the specialization, 
@@ -18,7 +18,7 @@ how to get help if you are stuck, and getting R and R Studio installed.
 
 These are the topics coverd in week 2:
 
-![Week 2 content]()
+![Week 2 content of 'The Data Scientist's Toolbox MOOC']()
 
 * Basics of folder structure and using the command line interface.
 Comands covered: pwd, clear, ls -a -l, cd, mkdir, touch, cp -r, rm, mv, echo, date.
@@ -31,3 +31,17 @@ Comands covered: pwd, clear, ls -a -l, cd, mkdir, touch, cp -r, rm, mv, echo, da
 * Procedure for installing Rtools.
 
 #### Week 3
+
+These are the topics coverd in week 3:
+
+![Week 3 content of 'The Data Scientist's Toolbox MOOC']()
+
+* The different types of data questions/analyses: descriptive, exploratory, inferential, predictive, causal and mechanistic.
+* Data: definiton and examples of its different forms including comments about 'Big Data'.
+* Characteristics of a good experiment and pitfalls to avoid.
+
+#### Week 4
+
+These are the topics coverd in week 4:
+
+![Week 4 content of 'The Data Scientist's Toolbox MOOC']()
