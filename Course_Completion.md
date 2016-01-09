@@ -1,6 +1,6 @@
 ## Course Completion Records
 
-These are my course completion records fot the course "[The Data Scientists Toolbox](https://www.coursera.org/learn/data-scientists-tools)":
+This my course completion records for the course "[The Data Scientists Toolbox](https://www.coursera.org/learn/data-scientists-tools)":
 
 ## Assignment Completion:
 
