@@ -1,4 +1,4 @@
-## Course Completion Records
+## Course Completion Record
 
 This is my course completion record for the course "[The Data Scientists Toolbox](https://www.coursera.org/learn/data-scientists-tools)":
 
