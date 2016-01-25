@@ -50,7 +50,7 @@ These are the contents of week 4:
 
 ![Week 4 content of 'The Data Scientist's Toolbox MOOC'](https://github.com/mariocpinto/0003_MOOC_The_Data_Scientists_Toolbox/blob/master/The_Data_Scientists_Toolbox_Week_4_Content.png)
 
-There is just one assignment to be completed. The assignment is a means to demonstrate that you have RStudio installed, have created a github account, and know how to fork a repository and commit changes.
+There is just one assignment to be completed. The assignment is a means to demonstrate that you have RStudio installed, have created a github account, and know how to fork a repository and commit changes. (The related assignment repositores can be found [here](https://github.com/mariocpinto/0004_MISC_datasciencecoursera) and [here](https://github.com/mariocpinto/0005_MISC_datasharing)).
 
 #### Concluding Remarks:
 This is a fairly lightweight course and can be completed pretty quickly. The course is primarily aimed to get you primed and set-up for the other courses in the [Data Science Specialization](https://www.coursera.org/specializations/jhu-data-science).
